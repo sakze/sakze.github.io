@@ -4,12 +4,6 @@ body {
     font-family: monaco, monospace;
 }
 
-h1,
-h2 {
-    display: inline-block;
-    background: #fff;
-}
-
 h1 {
     font-size: 30px
 }
